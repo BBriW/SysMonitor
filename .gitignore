@@ -1,0 +1,11 @@
+# 编译产物
+*.pdb
+*.user
+bin/
+obj/
+.vs/
+
+# 系统垃圾
+Thumbs.db
+desktop.ini
+*.log
